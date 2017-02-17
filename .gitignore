@@ -1,3 +1,6 @@
 .gitconfig
 workspace
 *.bak
+*.log
+logs/
+jobs/**/log
