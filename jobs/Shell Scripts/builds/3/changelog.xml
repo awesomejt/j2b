@@ -1,0 +1,11 @@
+commit 7541ac240edcf002d65af25da851d8d16acf962f
+tree 0bad4cb6258ad8b00b1141d42235137c850b6f96
+parent 3d0ff7a927789d52de5a0613dbe234e0dfce0165
+author Jason Taylor <jason@jasongtaylor.com> 2017-03-05 21:50:21 -0500
+committer GitHub <noreply@github.com> 2017-03-05 21:50:21 -0500
+
+    Convert to heredoc
+
+
+
+:100644 100644 b2638ea6fa35744de67297487b87362fd3858078 ac12bc8b08a3648674a4e2b6ff9c1af5b2ec41e8 M	build-info.sh

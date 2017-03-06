@@ -1,0 +1,11 @@
+commit f77986c359f5d4f069466d3de031f253829cae0f
+tree 0303d3099dbfdc22da2f7af11e657075f035e69c
+parent 7541ac240edcf002d65af25da851d8d16acf962f
+author Jason Taylor <jason@jasongtaylor.com> 2017-03-05 21:53:32 -0500
+committer GitHub <noreply@github.com> 2017-03-05 21:53:32 -0500
+
+    Add Jenkins build info
+
+
+
+:100644 100644 ac12bc8b08a3648674a4e2b6ff9c1af5b2ec41e8 60c4b20b09cac54185b44147a6de62528ee9980e M	build-info.sh
