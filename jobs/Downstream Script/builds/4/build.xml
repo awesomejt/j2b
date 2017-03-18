@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UserIdCause>
+            <userId>admin</userId>
+          </hudson.model.Cause_-UserIdCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <hudson.plugins.parameterizedtrigger.CapturedEnvironmentAction plugin="parameterized-trigger@2.33">
+      <env serialization="custom">
+        <unserializable-parents/>
+        <tree-map>
+          <default>
+            <comparator class="hudson.util.CaseInsensitiveComparator"/>
+          </default>
+          <int>34</int>
+          <string>_</string>
+          <string>/usr/bin/daemon</string>
+          <string>BUILD_DISPLAY_NAME</string>
+          <string>#4</string>
+          <string>BUILD_ID</string>
+          <string>4</string>
+          <string>BUILD_NUMBER</string>
+          <string>4</string>
+          <string>BUILD_TAG</string>
+          <string>jenkins-Downstream Script-4</string>
+          <string>BUILD_URL</string>
+          <string>http://localhost:8080/job/Downstream%20Script/4/</string>
+          <string>CLASSPATH</string>
+          <string></string>
+          <string>EXECUTOR_NUMBER</string>
+          <string>0</string>
+          <string>HOME</string>
+          <string>/var/lib/jenkins</string>
+          <string>HUDSON_HOME</string>
+          <string>/var/lib/jenkins</string>
+          <string>HUDSON_SERVER_COOKIE</string>
+          <string>a900eadcc7633cbe</string>
+          <string>HUDSON_URL</string>
+          <string>http://localhost:8080/</string>
+          <string>JENKINS_HOME</string>
+          <string>/var/lib/jenkins</string>
+          <string>JENKINS_SERVER_COOKIE</string>
+          <string>a900eadcc7633cbe</string>
+          <string>JENKINS_URL</string>
+          <string>http://localhost:8080/</string>
+          <string>JOB_BASE_NAME</string>
+          <string>Downstream Script</string>
+          <string>JOB_DISPLAY_URL</string>
+          <string>http://localhost:8080/job/Downstream%20Script/display/redirect</string>
+          <string>JOB_NAME</string>
+          <string>Downstream Script</string>
+          <string>JOB_URL</string>
+          <string>http://localhost:8080/job/Downstream%20Script/</string>
+          <string>LANG</string>
+          <string>en_US.UTF-8</string>
+          <string>LOGNAME</string>
+          <string>jenkins</string>
+          <string>MAIL</string>
+          <string>/var/mail/jenkins</string>
+          <string>NODE_LABELS</string>
+          <string>master</string>
+          <string>NODE_NAME</string>
+          <string>master</string>
+          <string>PATH</string>
+          <string>/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/snap/bin</string>
+          <string>PWD</string>
+          <string>/var/lib/jenkins</string>
+          <string>RUN_CHANGES_DISPLAY_URL</string>
+          <string>http://localhost:8080/job/Downstream%20Script/4/display/redirect?page=changes</string>
+          <string>RUN_DISPLAY_URL</string>
+          <string>http://localhost:8080/job/Downstream%20Script/4/display/redirect</string>
+          <string>SHELL</string>
+          <string>/bin/bash</string>
+          <string>SHLVL</string>
+          <string>1</string>
+          <string>USER</string>
+          <string>jenkins</string>
+          <string>WORKSPACE</string>
+          <string>/var/lib/jenkins/workspace/Downstream Script</string>
+          <string>XDG_RUNTIME_DIR</string>
+          <string>/run/user/112</string>
+          <string>XDG_SESSION_ID</string>
+          <string>c1</string>
+        </tree-map>
+      </env>
+    </hudson.plugins.parameterizedtrigger.CapturedEnvironmentAction>
+  </actions>
+  <queueId>13</queueId>
+  <timestamp>1489813150802</timestamp>
+  <startTime>1489813150806</startTime>
+  <result>SUCCESS</result>
+  <duration>53</duration>
+  <charset>UTF-8</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>/var/lib/jenkins/workspace/Downstream Script</workspace>
+  <hudsonVersion>2.32.3</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>
